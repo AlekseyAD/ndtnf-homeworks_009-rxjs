@@ -26,7 +26,7 @@ const fetchingFunc = (observer) => {
     error: (error) => console.log('Error!', error)
   })
   
-  Задание 2. С использованием RxJS сделайте запросы к любому общедоступному API (например, аналогичное с GitHub API GitLab).
+ // Задание 2. С использованием RxJS сделайте запросы к любому общедоступному API (например, аналогичное с GitHub API GitLab).
   
   const fetchingFunc2 = (observer) => {
     fetch('https://gitlab.com/api/v4/projects?search=netology')
