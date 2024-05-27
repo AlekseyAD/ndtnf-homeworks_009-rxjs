@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denizen24/rxjs-ts-starter.git"
+    "url": "git+https://github.com/netology-code/ndtnf-homeworks/tree/master/009-rxjs.git"
   },
-  "author": "",
+  "author": "denizen24",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/denizen24/rxjs-ts-starter.git/issues"
+    "url": "https://github.com/netology-code/ndtnf-homeworks/tree/master/009-rxjs.git/issues"
   },
-  "homepage": "https://github.com/denizen24/rxjs-ts-starter.git#readme",
+  "homepage": "https://github.com/netology-code/ndtnf-homeworks/tree/master/009-rxjs#readme",
   "dependencies": {
     "@types/karma": "3.0.2",
     "rxjs": "6.5.1"
